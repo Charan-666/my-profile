@@ -480,7 +480,7 @@ header .navbar ul li a:hover{
         width: 65%;
     }
 }
-.skills .row .progress git .anim{
+.skills .row .progress .git .anim{
     background: rgb(98, 78, 0);
     animation: git 1.5s linear forwards;
 }
